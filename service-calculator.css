@@ -1,0 +1,12 @@
+.service-calculator-row {
+    margin-bottom: 10px;
+}
+
+.service-calculator-submit {
+    margin-top: 20px;
+}
+
+#service-calculator-result {
+    margin-top: 20px;
+    font-weight: bold;
+}
